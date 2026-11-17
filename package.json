@@ -1,0 +1,7 @@
+{
+  "name": "skillforge-ai",
+  "private": true,
+  "scripts": {
+    "test": "node --check frontend/assets/app.js"
+  }
+}

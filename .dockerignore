@@ -1,0 +1,14 @@
+.env
+.venv
+venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.git
+.github
+tests
+docs
+*.db
+*.sqlite
+*.sqlite3
+backend/services/auth_data.json
